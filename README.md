@@ -2,6 +2,8 @@
 
 I wonder if crawlers will pick up any of these.
 
+Access under https://kbauer.github.io/just-a-little-experiment/
+
 <ol>
   <li>pzq68xy8@anonaddy.me</li>
   <li><a href="mailto:t1du6jya@anonaddy.me">Mail me</a></li>
